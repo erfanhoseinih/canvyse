@@ -1,6 +1,6 @@
 {
   "name": "canvyse",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "html canvas utils",
   "main": "canvyse.js",
   "scripts": {
